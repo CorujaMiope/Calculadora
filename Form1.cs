@@ -171,7 +171,7 @@ namespace Calculadora
 
             CaixaResultado.Text = Convert.ToString(Igual);
 
-
+            var texto = string.Empty;
         }
 
         private void BtVirgula_Click(object sender, EventArgs e)
